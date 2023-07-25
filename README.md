@@ -4,7 +4,7 @@ Assignment 3.7 for Chris
 Three *.txt files were uploaded to the S3 bucket created by terraform.
 SQS received messages of the upload as below:
 
-![image](https://github.com/apkiys/serverless-app-assignment-chris/assets/20112494/4a1a681b-4b6a-4320-bb46-5b3524a8887c)
+![image](https://github.com/apkiys/serverless-app-assignment-chris/assets/20112494/5ae4162b-da99-42f3-a025-5f3634a1216c)
 
 The files uploaded successfully as shown:
 ![image](https://github.com/apkiys/serverless-app-assignment-chris/assets/20112494/b2542cdb-3ea5-4169-8ebe-27cbc4a8f775)
